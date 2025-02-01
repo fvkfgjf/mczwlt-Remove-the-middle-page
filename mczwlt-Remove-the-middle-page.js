@@ -4,9 +4,9 @@
 // @description  红石中继站去中间页
 // @author       28074
 // @match        *://www.mczwlt.net/*
-// @updateURL    https://raw.githubusercontent.com/fvkfgjf/mczwlt-Remove-the-middle-page/main/mczwlt-Remove-the-middle-page.meta.js
-// @downloadURL  https://raw.githubusercontent.com/fvkfgjf/mczwlt-Remove-the-middle-page/main/mczwlt-Remove-the-middle-page.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=mczwlt.net
+// @updateURL    https://cdn.jsdelivr.net/gh/fvkfgjf/mczwlt-Remove-the-middle-page@master/mczwlt-Remove-the-middle-page.meta.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/fvkfgjf/mczwlt-Remove-the-middle-page@master/mczwlt-Remove-the-middle-page.js
+// @icon         https://www.mczwlt.net/favicon.ico
 // ==/UserScript==
 
 
